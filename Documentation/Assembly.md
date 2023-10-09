@@ -42,33 +42,69 @@ Make sure you have all parts:
 </table>
 
   ## Tool list
+Check that you have all the tools you need.
+- Small scissors (for removing stringing from the 3D printed parts)
+- Large scissors or side cutter (for cutting the pump pipe)
+- Tweezer (for putting the nuts in the 3D printed part pockets)
+- Wrench for M3 nuts or small pliers (for tightening the M3 steel nuts)
+- Drilling machine with 8 mm drill (drill size may vary depending on pump purchased)
+- File (only needed if the parts are too thick and don't fit together)
 
+## Arranging laser-cut parts
 
+- Examine the six laser-cut parts from recycled plastics. For each part, decide which side you want on the outside of the dispenser (the visible side). Since all parts are symmetrical, they can be flipped to any side.
+- Put the lid and bottom away for now and continue with the four side parts
+- Decide which parts should be front, back, left and right
+  - The **front** and **back** part are identical and can therefore be swapped
+  - The **left** and **right** part are identical and can therefore be swapped
+ 
+<img height="300" src="images/Assembly/1_Lasercut_vector_graphics_plain_text.png">
 
-> Add text
+- Arrange the six side parts and the bottom part as seen in the picture below
 
-<table>
+<img height="400" src="images/Assembly/2_Layout_text.png">
+
+- Make a test assembly by putting the five parts together (without using screws or nuts for now). Check if the parts fit together
+  - A tight fit is ideal, but if they are a little bit loose, it's still okay
+  - If the parts are too thick and can't be pushed-in, you may try to process the parts a bit using a file or laser-cut one or several parts again from another sheet
+- When done with the test assembly and everything fits fine, disassamble the parts and rearrange them as in the picture above, so you will remember which part is front/back/left/right
+- Leave the laser-cut parts for now and continue with the 3D printed parts
+
+## Putting nuts and screws in the 3D printed angle brackets
+
+ <table>
   <tr>
-    <td> <img width="1500" src="images/Assembly/1_Lasercut_vector_graphics_plain_text.png"> </td>
+    <td> <img width="600" src="images/Assembly/4_Angle_bottom_text.png"> </td>
     <td>
       <ul>
-        <li>test test test test test test test test test test test test test test test test test test test test test test </li>
-        <li>2</li>
+        <li>Start with one of the 3D printed <b>bottom angle brackets</b> (there should be two of them)</li>
+        <li>The small arrow shows where the outside will be and will help you in the assembly process later</li>
       </ul>
     </td>
   </tr>
 </table>
 
-<table>
+ <table> <tr> <td> <img width="150" src="images/Assembly/5_Angle_bottom_nuts.PNG"> <br> <img width="150" src="images/Assembly/6_Angle_bottom_nuts.PNG"> </td> <td> <ul>
+        <li>Put the M3 nuts (PP) in the pockets</li>
+        <li>You can use the tweezer to make it easier</li>
+        <li>Make sure the holes of the nuts align with the holes in the pockets (take a look from the outside)</li>
+        <li>Put all the nuts in the pockets (4 nuts for each bottom angle bracket)</li>
+      </ul> </td> </tr> </table>
+
+---
+---
+---
+
+ <table>
   <tr>
-    <td> <img width="300" src="images/Assembly/1_Lasercut_vector_graphics_plain_text.png"> </td>
-  </tr>
-  <tr>
-    <td> 
-    <ul>
-        <li>test test </li>
-        <li>2</li>
+    <td> <img width="800" src="images/Assembly/3_First_three_parts_text.png"> </td>
+    <td>
+      <ul>
+        <li>The picture on the left shows the recommended order for assembly </li>
+        <li>Once the first three parts (left (1), bottom (2) and back (3)) are assembled, the construction should stand and be stable</li>
       </ul>
     </td>
   </tr>
 </table>
+
+
