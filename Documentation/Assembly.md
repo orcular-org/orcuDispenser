@@ -3,7 +3,7 @@
 
 ## Part list
 
-Make sure you have all parts:
+Make sure you have all the parts:
 - 3D printed parts (list [here](Introduction.md), section 3D printing)
   - 5 parts for the dispenser (3D printed)
   - 1 wrench tool (3D printed, see image below)
