@@ -8,7 +8,7 @@ Make sure you have all the parts:
   - 5 parts for the dispenser (3D printed)
   - 1 wrench tool (3D printed, see image below)
   - 1 drilling template (3D printed)
-- Laser cut parts ((list [here](Introduction.md), section laser cutting)
+- Laser cut parts (list [here](Introduction.md), section laser cutting)
   - 6 parts (laser-cut)
 - Purchased parts (list [here](Introduction.md), section shopping list)
   - Pump with tube
