@@ -46,7 +46,7 @@ Check that you have all the tools you need.
 - Small scissors (for removing stringing from the 3D printed parts)
 - Large scissors or side cutter (for cutting the pump tube)
 - Tweezer (for putting the nuts in the 3D printed part pockets)
-- Wrench for M3 nuts or small pliers (for tightening the M3 steel nuts)
+- Wrench for M3 nuts or small pliers (for tightening the M3 steel locknuts)
 - Drilling machine with 8 mm drill (drill size may vary depending on pump purchased)
 - File (only needed if the parts are too thick and don't fit together)
 
@@ -71,6 +71,10 @@ Check that you have all the tools you need.
 - Leave the laser-cut parts for now and continue with the 3D printed parts
 
 ## Putting nuts and screws in the 3D printed angle brackets
+
+- Examine all 3D printed parts and check if there is stringing left from the 3D printing process
+  - If so, use some small scissors to cut and remove the strings
+  - Be extra careful in the pockets for the nuts so that the nuts fit in well.
 
  <table>
   <tr>
