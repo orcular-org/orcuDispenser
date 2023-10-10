@@ -206,3 +206,17 @@ Check that you have all the tools you need.
 > Optional: You can attach some sort of handle (e.g. a nylon string put through two little holes) to the top of the jar lid to make it easier to remove from the structure
 
 ## Final assembly steps
+
+- Mount the front plate to the structure
+- Check if all PP screws are attached (16 screws in the four side walls, 2 screws on the lid, not shown in the picture)
+  - Tighten them with the 3D printed wrench
+- Put the jar with the lid in the dispenser structure 
+
+<img height="300" src="images/Assembly/28_Front.PNG"> <img height="300" src="images/Assembly/29_Jar.PNG">
+
+- Put the lid with the pump on top of the dispenser structure
+- Fix the two metal screws with two wingnuts
+- For refilling the dispenser, unscrew the wingnuts. Be careful to not lose them in the sink (move the dispenser away from the sink before you unscrew the wingnuts)
+- Have fun with your dispenser! :)
+
+<img height="300" src="images/Assembly/30_Lid.PNG"> <img height="300" src="images/Assembly/31_Wing_nut.PNG">
