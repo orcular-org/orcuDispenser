@@ -11,7 +11,7 @@ Make sure you have all the parts:
 - Laser cut parts ((list [here](Introduction.md), section laser cutting)
   - 6 parts (laser-cut)
 - Purchased parts (list [here](Introduction.md), section shopping list)
-  - Pump with pipe
+  - Pump with tube
   - Jar with lid
   - Screws and nuts (see images below)
 
@@ -44,7 +44,7 @@ Make sure you have all the parts:
   ## Tool list
 Check that you have all the tools you need.
 - Small scissors (for removing stringing from the 3D printed parts)
-- Large scissors or side cutter (for cutting the pump pipe)
+- Large scissors or side cutter (for cutting the pump tube)
 - Tweezer (for putting the nuts in the 3D printed part pockets)
 - Wrench for M3 nuts or small pliers (for tightening the M3 steel nuts)
 - Drilling machine with 8 mm drill (drill size may vary depending on pump purchased)
@@ -123,7 +123,7 @@ Check that you have all the tools you need.
     <td>
       <ul>
         <li>The picture on the left shows the recommended order for assembly </li>
-        <li>Once the first three parts (left (1), bottom (2) and back (3)) are assembled, the construction should stand and be stable</li>
+        <li>Once the first three parts (left (1), bottom (2) and back (3)) are assembled, the structure should stand and be stable</li>
       </ul>
     </td>
   </tr>
@@ -154,7 +154,7 @@ Check that you have all the tools you need.
       </ul> </td> </tr> </table>
 
  <table> <tr> <td> <img width="400" src="images/Assembly/18_Side_right.PNG"> </td> <td> <ul>
-        <li>Mount the right part to the construcion using PP screws</li>
+        <li>Mount the right part to the structure using PP screws</li>
       </ul> </td> </tr> </table>
 
 ## Assembling the lid and the pump
@@ -169,5 +169,40 @@ Check that you have all the tools you need.
 
 <img height="200" src="images/Assembly/21_Lid.PNG"> <img height="200" src="images/Assembly/22_Lid.PNG">
 
+> _
+>
+> ⚠ The following steps may vary a bit depending on the pump you have purchased
+>
+> _
 
+- Screw the pump on the threaded adapter
 
+<img height="400" src="images/Assembly/23_Pump.PNG">
+
+- The next picture shows how the pump with the tube should fit in the dispenser
+- The tube may be too long, so now is a good time to test it and cut the tube to the correct length (continue reading below)
+
+<img height="400" src="images/Assembly/24_Jar.PNG">
+
+- Put the lid with the pump and tube on the dispenser structure (leave the jar away for now), test the tube length and cut it to the right length
+- Cut the tube at an 45° angle to retain suction strenght (see picture below)
+- Be careful not to cut off too much. You can still shorten the tube a bit if it's still too long
+
+<img height="400" src="images/Assembly/27_Pipe_text.png">
+
+## Drilling a hole in the jar
+
+- At first you need to find the right spot for the borehole. There are several ways to do it.
+  - You can place the jar with the lid in the structure and put the lid with the pump (remove the tube first) on top and mark the spot where the pump pipe hits the lid
+  - You can also use the 3D printed drilling template if it fits your jar size and mark the drilling spot
+  - If you want to punch a little hole in the drilling spot, don't use a hammer or at least be careful, because a plastic lid could crack
+
+ <img height="200" src="images/Assembly/25_Drilling_template.PNG"> <img height="200" src="images/Assembly/26_Drilling_template.PNG">
+
+- Measure the diameter of the pump pipe and choose a drill bit that matches the pipe.
+   - The hole can match exactly or it can be a bit wider than the pipe (for example, for a 7 mm pipe you can drill an 8 mm hole)
+- Place the jar with the drilled lid in the structure and test if it fits with the pump and the tube
+
+> Optional: You can attach some sort of handle (e.g. a nylon string put through two little holes) to the top of the jar lid to make it easier to remove from the structure
+
+## Final assembly steps
