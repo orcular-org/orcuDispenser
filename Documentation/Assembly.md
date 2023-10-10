@@ -112,6 +112,12 @@ Check that you have all the tools you need:
         <li>Tighten it well (with a wrench or pliers) so the screw sits tight and won't move</li>
       </ul> </td> </tr> </table>
 
+> _
+> 
+> ⚠ Note: From this point on, most pictures don't show all the screws and nuts. For simplicity reasons, most screws and nuts are not visible although they might be attached already.
+> 
+>_
+
  <table> <tr> <td> <img width="600" src="images/Assembly/11B_Angle_top.PNG"> </td> <td> <ul>
         <li>After that, you should have one top bracket with two steel screws in it (and 4 PP nuts)</li>
         <li>This one will go to the <b>back side</b></li>
