@@ -229,4 +229,6 @@ Check that you have all the tools you need:
 - For refilling the dispenser, unscrew the wingnuts. Be careful to not lose them in the sink (move the dispenser away from the sink before you unscrew the wingnuts)
 - Have fun with your dispenser! :)
 
+> For further modding and upgrading, see the [documentation](Introduction.md), section Modding and upgrading
+
 <img height="300" src="images/Assembly/30_Lid.PNG"> <img height="300" src="images/Assembly/31_Wing_nut.PNG">
