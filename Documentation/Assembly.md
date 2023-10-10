@@ -42,7 +42,7 @@ Make sure you have all the parts:
 </table>
 
   ## Tool list
-Check that you have all the tools you need.
+Check that you have all the tools you need:
 - Small scissors (for removing stringing from the 3D printed parts)
 - Large scissors or side cutter (for cutting the pump tube)
 - Tweezer (for putting the nuts in the 3D printed part pockets)
