@@ -8,13 +8,13 @@ If you want do modify the 3D printed parts, you can download the [FreeCAD design
 
 This list shows you which parts to print and in what quantity.
 
-| Quanitity | Part (STL file name) |
-|-----------|----------------------|
-| 2         | Angle_bracket_bottom |
-| 2         | Angle_bracket_top |
-| 1         | Adapter_for_pump |
-| 1         | Wrench |
-| 1         | Drilling_template |
+| Quanitity | Part (STL file name) | Type |
+|-----------|----------------------|------|
+| 2         | Angle_bracket_bottom | Part |
+| 2         | Angle_bracket_top    | Part |
+| 1         | Adapter_for_pump     | Part |
+| 1         | Wrench               | Tool |
+| 1         | Drilling_template    | Tool |
 
 - The Angle brackets (bottom/top) and the adapter are parts of the product
 - The wrench and drilling template are tools that are not build-in the product, but help you in the making and assembly process
