@@ -26,7 +26,7 @@ For more images, see the gallery.
  
 ## Building instructions
  
-For making and building instructions, see the documentation.
+For making and building instructions, see the [documentation](Documentation/Introduction.md).
 
 ## About this project
 > (text)
