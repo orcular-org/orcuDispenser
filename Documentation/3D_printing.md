@@ -6,7 +6,7 @@ If you want do modify the 3D printed parts, you can download the [FreeCAD design
 
 # Part list
 
-This list shows you which parts to print and in what quantity.
+This list shows you which parts to print and in what quantity:
 
 | Quanitity | Part (STL file name) | Type |
 |-----------|----------------------|------|
@@ -16,7 +16,7 @@ This list shows you which parts to print and in what quantity.
 | 1         | Wrench               | Tool |
 | 1         | Drilling_template    | Tool |
 
-- The Angle brackets (bottom/top) and the adapter are parts of the product
+- The angle brackets (bottom/top) and the adapter are parts of the product
 - The wrench and drilling template are tools that are not build-in the product, but help you in the making and assembly process
 
 # Filament material
