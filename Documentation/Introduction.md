@@ -8,7 +8,7 @@ Back to [main page (readme)](../README.md)
 
 - ♻️ Making sheets from recycled plastics
 - 🛒 Shopping list
-- 🖨️ 3D printing
+- 🖨️ [3D printing](3D_printing.md)
 - 🔫 Laser cutting
 - 🛠️ [Assembly](Assembly.md)
 - 🔼 Modding and upgrades
