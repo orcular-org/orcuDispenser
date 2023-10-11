@@ -10,7 +10,14 @@ This list shows you which parts to print and in what quantity.
 
 | Quanitity | Part (STL file name) |
 |-----------|----------------------|
-| 1         | name                 |
+| 2         | Angle_bracket_bottom |
+| 2         | Angle_bracket_top |
+| 1         | Adapter_for_pump |
+| 1         | Wrench |
+| 1         | Drilling_template |
+
+- The Angle brackets (bottom/top) and the adapter are parts of the product
+- The wrench and drilling template are tools that are not build-in the product, but help you in the making and assembly process
 
 # Filament material
 
@@ -22,8 +29,8 @@ This filament was used for the prototype: https://www.3djake.de/formfutura/refor
 
 Here are some recommended printing settings. 3D printing was tested with a Prusa MK3S with PLA. You can apply similar settings to other printers.
 
-- Print settings: 0.15 mm QUALITY
-- Layer height: 0.15 mm
-- First layer height: 0.2 mm
-- Infill: 15 %
-- Support material: no supports needed
+- **Print settings (Prusa slicer):** 0.15 mm QUALITY
+- **Layer height:** 0.15 mm
+- **First layer height:** 0.2 mm
+- **Infill:** 15 %
+- **Support material:** no supports needed
