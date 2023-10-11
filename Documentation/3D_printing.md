@@ -17,7 +17,7 @@ This list shows you which parts to print and in what quantity:
 | 1         | Drilling_template    | Tool |
 
 - The angle brackets (bottom/top) and the adapter are parts of the product
-- The wrench and drilling template are tools that are not build-in the product, but help you in the making and assembly process
+- The wrench and drilling template are tools that are not part of the product, but will help you in the making and assembly process
 
 # Filament material
 
