@@ -6,8 +6,8 @@ Back to [main page (readme)](../README.md)
 
 > Add introduction text
 
-- ♻️ Making sheets from recycled plastics
 - 🛒 [Shopping list](Shopping_list.md)
+- ♻️ Making sheets from recycled plastics
 - 🖨️ [3D printing](3D_printing.md)
 - 🔫 Laser cutting
 - 🛠️ [Assembly](Assembly.md)
