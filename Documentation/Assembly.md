@@ -106,7 +106,7 @@ Check that you have all the tools you need:
         <li>If you can't push the nut in the hexagonal pocket (the right one in the picture), take a PP screw, put on the nut on the tip of the screw (just turn it a little bit) and push the nut with the screw in the hexagonal pocket. After that, unscrew and take away the screw</li>
       </ul> </td> </tr> </table>
 
- <table> <tr> <td> <img width="150" src="images/Assembly/10_Angle_top_screw.PNG"> <br> <img width="150" src="images/Assembly/11_Angle_top_screw.PNG"> </td> <td> <ul>
+ <table> <tr> <td> <img width="150" src="images/Assembly/10_new_Angle_top_screw.PNG"> <br> <img width="150" src="images/Assembly/11_new_Angle_top_screw.PNG"> </td> <td> <ul>
         <li>One of the two top angle brackets should get two steel screws</li>
         <li>Put in the steel screw (M3 x 16) in the pocket and mount a M3 steel nut on it</li>
         <li>Tighten it well (with a wrench or pliers) so the screw sits tight and won't move</li>
@@ -118,7 +118,7 @@ Check that you have all the tools you need:
 > 
 >_
 
- <table> <tr> <td> <img width="600" src="images/Assembly/11B_Angle_top.PNG"> </td> <td> <ul>
+ <table> <tr> <td> <img width="600" src="images/Assembly/11B_new_Angle_top.PNG"> </td> <td> <ul>
         <li>After that, you should have one top bracket with two steel screws in it (and 4 PP nuts)</li>
         <li>This one will go to the <b>back side</b></li>
         <li>The other top bracket doesn't have steel screws (the holes stay empty), only 4 PP nuts</li>
