@@ -4,13 +4,13 @@
 
 You can download all the STL files for 3D printing [here](../3D_printing).
 
-If you want do modify the 3D printed parts, you can download the [FreeCAD design file](../CAD), modify the parts in [FreeCAD](https://www.freecad.org/) and export the bodies via File -> Export, choosing "STL Mesh" as file format.
+If you want to modify the 3D printed parts, you can download the [FreeCAD design file](../CAD), modify the parts in [FreeCAD](https://www.freecad.org/) and export the bodies via File -> Export, choosing "STL Mesh" as file format.
 
 ## Part list
 
 This list shows you which parts to print and in what quantity:
 
-| Quanitity | Part (STL file name) | Type |
+| Quantity  | Part (STL file name) | Type |
 |-----------|----------------------|------|
 | 2         | Angle_bracket_bottom | Part |
 | 2         | Angle_bracket_top    | Part |
@@ -43,4 +43,4 @@ Printing time with this settings and printer: 1 h 55 m
 
 ## Postprocessing
 
-Make sure to remove all stringing from the 3D printed parts (e.g. by using some small scissors), especially inside the pockets for the nuts to make sure the nuts fit in well.
+Make sure to remove all stringing from the 3D printed parts (e.g. by using some small scissors), especially inside the pockets for the nuts, to make sure the nuts fit in well.
