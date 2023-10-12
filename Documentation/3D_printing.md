@@ -39,7 +39,7 @@ Here are some recommended printing settings. 3D printing was tested with a Prusa
 - **Infill:** 15 %
 - **Support material:** no supports needed
 
-Printing time with this settings and printer: 1 h 55 m
+Printing time with these settings and printer: 1 h 55 min
 
 ## Postprocessing
 
