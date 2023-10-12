@@ -31,12 +31,12 @@ Make sure you have all the parts:
 <table>
   <tr>
     <td><img width="150" src="images/Assembly/Screw_steel_thread.PNG"></td>
-    <td><img width="150" src="images/Assembly/Locknut.PNG"></td>
+    <td><img width="150" src="images/Assembly/Nut_steel.PNG"></td>
     <td><img width="150" src="images/Assembly/Wingnut.PNG"></td>
   </tr>
   <tr>
     <td>M3 x 16 screw <br> Stainless steel <br> 2 pieces</td>
-    <td>M3 locknut <br> Stainless steel <br> 2 pieces</td>
+    <td>M3 nut <br> Stainless steel <br> 2 pieces</td>
     <td>M3 wingnut <br> Stainless steel <br> 2 pieces</td>
   </tr>
 </table>
@@ -46,7 +46,7 @@ Check that you have all the tools you need:
 - Small scissors (for removing stringing from the 3D printed parts)
 - Large scissors or side cutter (for cutting the pump tube)
 - Tweezer (for putting the nuts in the 3D printed part pockets)
-- Wrench for M3 nuts or small pliers (for tightening the M3 steel locknuts)
+- Wrench for M3 nuts or small pliers (for tightening the M3 steel nuts)
 - Drilling machine with 8 mm drill (drill size may vary depending on pump purchased)
 - File (only needed if the parts are too thick and don't fit together)
 
@@ -108,7 +108,7 @@ Check that you have all the tools you need:
 
  <table> <tr> <td> <img width="150" src="images/Assembly/10_Angle_top_screw.PNG"> <br> <img width="150" src="images/Assembly/11_Angle_top_screw.PNG"> </td> <td> <ul>
         <li>One of the two top angle brackets should get two steel screws</li>
-        <li>Put in the steel screw (M3 x 16) in the pocket and mount a M3 steel locknut on it</li>
+        <li>Put in the steel screw (M3 x 16) in the pocket and mount a M3 steel nut on it</li>
         <li>Tighten it well (with a wrench or pliers) so the screw sits tight and won't move</li>
       </ul> </td> </tr> </table>
 
