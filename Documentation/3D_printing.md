@@ -39,6 +39,8 @@ Here are some recommended printing settings. 3D printing was tested with a Prusa
 - **Infill:** 15 %
 - **Support material:** no supports needed
 
+Printing time with this settings and printer: 1 h 55 m
+
 ## Postprocessing
 
 Make sure to remove all stringing from the 3D printed parts (e.g. by using some small scissors), especially inside the pockets for the nuts to make sure the nuts fit in well.
