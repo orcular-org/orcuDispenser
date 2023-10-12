@@ -112,11 +112,11 @@ Check that you have all the tools you need:
         <li>Tighten it well (with a wrench or pliers) so the screw sits tight and won't move</li>
       </ul> </td> </tr> </table>
 
-> _
+> ____________________________
 > 
 > ⚠ Note: From this point on, most pictures don't show all the screws and nuts. For simplicity reasons, most screws and nuts are not visible although they might be attached already.
 > 
->_
+>____________________________
 
  <table> <tr> <td> <img width="600" src="images/Assembly/11B_new_Angle_top.PNG"> </td> <td> <ul>
         <li>After that, you should have one top bracket with two steel screws in it (and 4 PP nuts)</li>
@@ -179,11 +179,11 @@ Check that you have all the tools you need:
 
 <img height="200" src="images/Assembly/21_Lid.PNG"> <img height="200" src="images/Assembly/22_Lid.PNG">
 
-> _
+> ____________________________
 >
 > ⚠ The following steps may vary a bit depending on the pump you have purchased
 >
-> _
+> ____________________________
 
 - Screw the pump on the threaded adapter
 
