@@ -6,7 +6,7 @@
 
 Here is a list of standard parts:
 
-| Quantitiy | Part           | Material              | Standard                      | Shop link (suggestion)                                                                                          |
+| Quantity  | Part           | Material              | Standard                      | Shop link (suggestion)                                                                                          |
 |-----------|----------------|-----------------------|-------------------------------|-----------------------------------------------------------------------------------------------------------------|
 | 16         | M3 x 10 screw | PP (Polypropylene)    | DIN 933/931 / DIN EN ISO 4017 | [Link](https://www.kunststoffschraube.de/product_info.php?products_id=4129)                                     |
 | 16         | M3 nut        | PP (Polypropylene)    | DIN 555/934 / DIN EN ISO 4032 | [Link](https://www.kunststoffschraube.de/product_info.php?products_id=4185)                                     |
@@ -45,7 +45,7 @@ Here is a list of standard parts:
   - But you can still use steel screws and nuts instead of PP if you like
 
 - The two M3 x 16 screws, nuts and wingnuts in the lid should be stainless steel. The reasons are:
-  - These wingnuts have to be undone everytime you want to refill your dispenser. Plastic screws and nuts tend to wear off and break quickly, so steel parts are recommended
+  - These wingnuts have to be undone every time you want to refill your dispenser. Plastic screws and nuts tend to wear off and break quickly, so steel parts are recommended
   - Stainless steel is recommended as these parts may get in contact with water a lot (by splashes from the water tap or wet hands)
  
 - All screws should be hex head screws so that they fit into the pockets of the 3D printed parts
@@ -55,7 +55,7 @@ Here is a list of standard parts:
 Here is a list of other parts:
 
 
-| Quantitiy | Part                | Shop link (suggestion)                                                                           |
+| Quantity  | Part                | Shop link (suggestion)                                                                           |
 |-----------|---------------------|--------------------------------------------------------------------------------------------------|
 | 1         | Soap dispenser pump | [Link](https://www.amazon.de/Ertisa-Edelstahl-seifenspender-flüssiges-Badezimmer/dp/B086PS4G4Q/) |
 
