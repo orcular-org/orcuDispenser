@@ -22,6 +22,9 @@ The orcuDispenser (short for "Orcular Dispenser") is an open-source dispenser ma
 
 [<img width="450" src="Documentation/images/readme/online_3D_viewer_preview.png">](https://3dviewer.net/embed.html#model=https://raw.githubusercontent.com/orcular-org/orcuDispenser/main/CAD/Online3Dviewer/orcuDispenser_Online3Dviewer_STEP.step$camera=-191.86844,-245.07455,234.76594,244.75676,161.15922,-120.84555,0.00000,-0.00000,1.00000,45.00000$cameramode=perspective$envsettings=fishermans_bastion,off$backgroundcolor=255,255,255,255$defaultcolor=200,200,200$edgesettings=on,0,0,0,84)
 
+- Please be patient and wait about a minute to load the online 3D view
+- Use the left mouse button to rotate and the right mouse button to pan
+
 - Alternative 3D view with more tools [here](https://3dviewer.net/#model=https://raw.githubusercontent.com/orcular-org/orcuDispenser/main/CAD/Online3Dviewer/orcuDispenser_Online3Dviewer_STEP.step)
   - Click "Set Z axis as up vector" for better display ![a](Documentation/images/readme/Set_Z_axis_as_up_vector.png) 
   - You can hide/show parts and groups on the left-hand side
