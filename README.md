@@ -31,6 +31,8 @@ The orcuDispenser (short for "Orcular Dispenser") is an open-source dispenser ma
 
 <p>Test <a href="https://www.google.com/">TEST</a>.</p>
 
+[go](http://google.com){:target="_blank" rel="noopener"}
+
 ## Images
 
 > Add some images
