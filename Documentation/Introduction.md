@@ -7,7 +7,7 @@
 > Add introduction text
 
 - 🛒 [Shopping list](Shopping_list.md)
-- ♻️ Making sheets from recycled plastics
+- ♻️ [Making sheets from recycled plastics](Making_sheets.md)
 - 🖨️ [3D printing](3D_printing.md)
 - 🔫 Laser cutting
 - 🛠️ [Assembly](Assembly.md)
