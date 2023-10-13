@@ -47,7 +47,7 @@ If you mix different colors, the sum should be 1225 g. For example, the white sh
 - 1185 g white
 - +20 g blue
 - +20 g turquoise
-  - sums up to 1225 g
+  - adds up to 1225 g
  
 Depending on your machine and process, these values may also vary. Several attempts should be made to determine the correct weight.
 
@@ -61,15 +61,18 @@ Depending on your machine and process, these values may also vary. Several attem
 - Raise the lower plate by using the jack (depends on your machine) until the top metal sheet barely touches the top side of the sheet press
 - Preheat it to 230 °C (recommended temperature for PP by Precious Plastic)
 - Wait 10 mins
-- Apply some more pressure using the jack
-- Repeat this process three more times
-> This procedere makes sure that you wont't have any air bubbles inside your sheet
+  - Apply some more pressure using the jack
+  - Repeat this process three more times
+> ℹ️ This procedere makes sure that you wont't have any air bubbles inside your sheet
 - After adding pressure four times and therefore 40 mins of baking you can turn off the heating
-- For cooling down there are two options
+- For cooling down there are two options:
   - Let the sheet cool down for about 3 hours in the sheet press (if you don't have a cold press)
   - If you have a cold press, you can move the sheet to the cold press, apply pressure and let it cool down for 3 hours
 - Remove the mould from the press and take out the sheet
 
+## Postprocessing
 
-
-
+- If your sheet feels greasy from the silicone, use some dish soap or vinegar to remove the grease and wash it off with water
+- Cut off the edges with a table saw or utility knife
+- Measure the thickness at different points on the edge. If it is around 4.0 to 5.5 mm thick, it should be okay, but if it varies more than 0.5 mm, it could cause difficulties in the laser cutting process.
+- Examine your sheet on both sides and check if it has any air bubbles. Small air bubbles should be okay, but larger air pockets or cavities should be avoided in the laser cutting.
