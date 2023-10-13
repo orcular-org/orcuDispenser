@@ -4,10 +4,17 @@
 
 Here are some instructions for making sheets from recycled plastic using [Precious Plastic](https://preciousplastic.com/) methods.
 
+<img width="550" src="images/Making_sheets/0_Making_sheets.jpg">
+
 ## Tools and machines needed
 
 - Plastic shredder (like the [Precious Plastic shredder](https://community.preciousplastic.com/academy/build/shredderpro) or similar)
 - Plastic sheet press (like the [Precious Plastic sheet press](https://community.preciousplastic.com/academy/build/sheetpress) or similar)
+  - Optional: Cooling press
+
+<img height="300" src="images/Making_sheets/1_Large_sheet_press.jpg"> <img height="300" src="images/Making_sheets/2_Small_sheet_press.jpg"> <img height="300" src="images/Making_sheets/3_Cold_Press.jpg">
+
+_Images above: Large sheet press (1 x 1 m) - Small sheet press (60 x 60 cm) - Cooling press (60 x 60 cm)_
 
 ## Material
 
@@ -51,11 +58,16 @@ If you mix different colors, the sum should be 1225 g. For example, the white sh
  
 Depending on your machine and process, these values may also vary. Several attempts should be made to determine the correct weight.
 
+<img height="200" src="images/Making_sheets/4_Blue.jpg"> <img height="200" src="images/Making_sheets/5_Blue.jpg"> <img height="200" src="images/Making_sheets/6_Granulate.jpg">
+
 ### Making the sheet
 
 - If you used different colors, mix them well in a bucket
 - Apply some silicon grease on the bottom of the mould
 - Pour in the plastic granulate in the mould and level it
+
+<img width="600" src="images/Making_sheets/7_Mould.jpg">
+
 - Put a metal sheet on top of it
 - Place the mould with the plastic in your sheet press
 - Raise the lower plate by using the jack (depends on your machine) until the top metal sheet barely touches the top side of the sheet press
@@ -66,9 +78,11 @@ Depending on your machine and process, these values may also vary. Several attem
 > ℹ️ This procedere makes sure that you wont't have any air bubbles inside your sheet
 - After adding pressure four times and therefore 40 mins of baking you can turn off the heating
 - For cooling down there are two options:
-  - Let the sheet cool down for about 3 hours in the sheet press (if you don't have a cold press)
-  - If you have a cold press, you can move the sheet to the cold press, apply pressure and let it cool down for 3 hours
+  - Let the sheet cool down for about 3 hours in the sheet press (if you don't have a cooling press)
+  - If you have a cooling press, you can move the sheet to the cooling press, apply pressure and let it cool down for 3 hours
 - Remove the mould from the press and take out the sheet
+
+<img height="300" src="images/Making_sheets/8_Sheet.jpg"> <img height="300" src="images/Making_sheets/9_Close-up.jpg">
 
 ## Postprocessing
 
