@@ -26,12 +26,6 @@ The orcuDispenser (short for "Orcular Dispenser") is an open-source dispenser ma
   - Click "Set Z axis as up vector" for better display
   - You can hide/show parts and groups on the left-hand side
   - For a complete view of the 3D file, download the [CAD file](CAD) and open it in [FreeCAD](https://www.freecad.org/)
- 
-
-
-<p>Test <a href="https://www.google.com/">TEST</a>.</p>
-
-[go](http://google.com){:target="_blank" rel="noopener"}
 
 ## Images
 
