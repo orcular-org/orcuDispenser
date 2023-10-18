@@ -13,8 +13,8 @@ The orcuDispenser (short for "[Orcular](#about-the-orcular-project) Dispenser") 
   - Easy to repair & upgrade
   - Designed for disassembly
   - All parts recyclebale (except for the pump, depends on the product)
-- Open-source hardware
-- Designed in FreeCAD (open-source software)
+- [Open-source hardware](#license)
+- Designed in [FreeCAD](https://www.freecad.org/) (open-source software)
   - CAD file accessible in this repository
   - Parametric design (other sizes are easy to generate)
 
