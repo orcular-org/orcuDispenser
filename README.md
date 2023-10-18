@@ -4,7 +4,7 @@
 
 <img width="450" src="Documentation/images/readme/dispenser_collection_3-min.png"> <img width="150" src="Documentation/images/oshw-logo.svg">
 
-The orcuDispenser (short for "Orcular Dispenser") is an open-source dispenser made from recycled plastics. The main features are:
+The orcuDispenser (short for "[Orcular](#about-the-orcular-project) Dispenser") is an open-source dispenser made from recycled plastics. The main features are:
 - For soap or other liquids like dishwashing liquid, shampoo or body wash
 - Made from recycled plastics ("Precious Plastic" sheets)
 - Laser-cut parts
