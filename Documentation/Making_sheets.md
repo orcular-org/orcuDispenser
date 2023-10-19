@@ -72,14 +72,17 @@ Depending on your machine and process, these values may also vary. Several attem
 - Place the mould with the plastic in your sheet press
 - Raise the lower plate by using the jack (depends on your machine) until the top metal sheet barely touches the top side of the sheet press
 - Preheat it to 230 °C (recommended temperature for PP by Precious Plastic)
+- Wait until the temperature reaches 230 °C
+  - Apply some more pressure using the jack
 - Wait 10 mins
   - Apply some more pressure using the jack
-  - Repeat this process three more times
+  - Repeat this process two more times
+  - After the 4th time of adding pressure, let it heat 10 more mins
 > ℹ️ This procedere makes sure that you wont't have any air bubbles inside your sheet
-- After adding pressure four times and therefore 40 mins of baking you can turn off the heating
+- After adding pressure four times, heating 10 more mins and therefore 40 mins of baking you can turn off the heating
 - For cooling down there are two options:
-  - Let the sheet cool down for about 3 hours in the sheet press (if you don't have a cooling press)
-  - If you have a cooling press, you can move the sheet to the cooling press, apply pressure and let it cool down for 3 hours
+  - Let the sheet cool down for at least 6 hours (depends on your machine and the environment) in the sheet press (if you don't have a cooling press)
+  - If you have a cooling press, you can move the sheet to the cooling press, apply pressure and let it cool down for at least 6 hours (depends on your machine and the environment)
 - Remove the mould from the press and take out the sheet
 
 <img height="300" src="images/Making_sheets/8_Sheet.jpg"> <img height="300" src="images/Making_sheets/9_Close-up.jpg">
