@@ -42,9 +42,9 @@ or go directly to:
 - 🛒 [Shopping list](Documentation/Shopping_list.md)
 - ♻️ [Making sheets from recycled plastics](Documentation/Making_sheets.md)
 - 🖨️ [3D printing](Documentation/3D_printing.md)
-- 🔫 Laser cutting
+- 🔫 Laser cutting *(coming soon)*
 - 🛠️ [Assembly](Documentation/Assembly.md)
-- 🔼 Modding and upgrades
+- 🔼 Modding and upgrades *(coming soon)*
 
 ## About the Orcular project
 The orcuDispenser is part of the Orcular project - https://www.orcular.org
