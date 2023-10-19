@@ -35,7 +35,16 @@ Controls:
  
 ## Building instructions
  
-For making and building instructions, see the [documentation](Documentation/Introduction.md).
+For making and building instructions, see the [documentation](Documentation/Introduction.md)
+
+or go directly to:
+
+- 🛒 [Shopping list](Documentation/Shopping_list.md)
+- ♻️ [Making sheets from recycled plastics](Documentation/Making_sheets.md)
+- 🖨️ [3D printing](Documentation/3D_printing.md)
+- 🔫 Laser cutting
+- 🛠️ [Assembly](Documentation/Assembly.md)
+- 🔼 Modding and upgrades
 
 ## About the Orcular project
 The orcuDispenser is part of the Orcular project - https://www.orcular.org
